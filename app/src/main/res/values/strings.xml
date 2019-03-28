@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Inspired</string>
+
+    //Qoutes
+    <string-array name="qoutes">
+        <item>
+            "That brain of mine is something more than merely mortal; as time will show."
+        </item>
+        <item>
+            "The only way to learn a new programming language is by writing programs in it."
+        </item>
+        <item>
+            "Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+        </item>
+    </string-array>
+
+    //Bios of programmers
+    <string-array name="programmerBios">
+
+        <item>
+            Dennis MacAlistair Ritchie(September 9, 1941 – c. October 12, 2011)was an American computer scientist.
+            He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system.
+        </item>
+
+        <item>
+            Augusta Ada King (10 December 1815 – 27 November 1852) was an English mathematician and writer,
+            She was the first to recognise that the machine had applications beyond pure calculation.She is sometimes regarded as one of
+            the first computer programmers.
+        </item>
+
+        <item>
+            Linus Benedict Torvalds (born December 28, 1969) is a Finnish–American software engineer who is the creator, and historically, the principal
+            developer of the Linux kernel, which became the kernel for many Linux distributions and operating systems such as Android and Chrome OS.
+        </item>
+
+    </string-array>
+</resources>
